@@ -39,7 +39,10 @@ export default function HeroSection() {
             >
               Try the demo
             </a>
-            <a href="#" className="text-sm font-semibold leading-6 text-white">
+            <a
+              href="#"
+              className="text-sm font-semibold leading-6 text-black dark:text-white"
+            >
               Start a trial <span aria-hidden="true">→</span>
             </a>
           </div>
