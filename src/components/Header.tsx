@@ -17,7 +17,7 @@ export default function Header() {
 
   return (
     <div className="">
-      <header className="fixed top-0 w-full z-10 bg-white dark:bg-black border-b-2 border-neutral-100 dark:border-neutral-800">
+      <header className="fixed top-0 w-full z-10 bg-neutral-50 dark:bg-neutral-950 border-b-[1px] border-neutral-200 dark:border-neutral-800">
         <nav
           className=" mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8 "
           aria-label="Global"
